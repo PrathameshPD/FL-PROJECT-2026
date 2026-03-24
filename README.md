@@ -7,3 +7,5 @@ Requirements Gathering:
 1. Website.
 2. Backend Req ?
 3. Scalable
+-----------------------
+Design + Integration. & Code 
